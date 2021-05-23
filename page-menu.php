@@ -1,3 +1,7 @@
+<?php
+// Template Name: Menu da Semana
+?>
+
 <?php get_header(); ?>
 		<section class="container">
 			<h2 class="subtitulo">Menu da Semana</h2>
